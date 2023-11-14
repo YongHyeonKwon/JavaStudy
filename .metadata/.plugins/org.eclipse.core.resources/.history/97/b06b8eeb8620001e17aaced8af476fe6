@@ -1,0 +1,21 @@
+package ex02닌텐도게임기;
+
+public class main {
+	// 실행하는 공간, 닌텐도 게임기
+	public static void main(String[] args) {
+
+		playGame(new Mario());
+		
+	}
+
+	// 게임 실행시키기
+	private static void playGame(Mario ma) {
+		
+		ma.start();
+		
+	}
+	
+	
+	
+	
+}

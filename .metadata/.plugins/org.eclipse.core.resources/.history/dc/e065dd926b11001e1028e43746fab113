@@ -1,0 +1,35 @@
+package while문;
+
+import java.util.Scanner;
+
+public class ex02while문예제 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+
+		int sum = sc.nextInt();
+		
+		while (true) {
+			System.out.print("정수 입력 : " + sum);
+			
+			if (sum > 10) {
+				break;
+			}
+			
+		}
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

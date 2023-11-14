@@ -1,0 +1,29 @@
+package ex02연산자;
+
+import java.util.Scanner;
+
+public class ex02산술연산자예제 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("정수입력 : ");
+		
+		int num1 = sc.nextInt(); 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

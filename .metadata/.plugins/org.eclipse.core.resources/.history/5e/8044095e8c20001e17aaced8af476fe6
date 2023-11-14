@@ -1,0 +1,21 @@
+package ex02닌텐도게임기;
+
+public class child {
+
+     public void startDong() {
+		
+		System.out.println("동물의 숲 게임을 시작한다.");
+
+	}
+	
+     public void startMar() {
+ 		
+			System.out.println("마리오카트 게임을 시작한다.");
+		}
+     
+     public void startZel() {
+ 		
+ 		System.out.println("젤다의 전설을 시작한다!");
+}
+
+}
